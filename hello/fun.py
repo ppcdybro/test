@@ -1,3 +1,6 @@
+# this is just a test program
+# author: martin
+
 import random
 
 guesses_made = 0
